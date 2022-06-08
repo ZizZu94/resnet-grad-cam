@@ -8,4 +8,5 @@ The intuition behind the algorithm is based upon the fact that the model must ha
 
 ## References
 [Implementing Grad-CAM in PyTorch](https://medium.com/@stepanulyanin/implementing-grad-cam-in-pytorch-ea0937c31e82)
+
 [Transfer Learning with PyTorch CNNs](https://python.plainenglish.io/part-2-transfer-learning-with-pytorch-cnns-for-beginners-2b5d247ac311)
